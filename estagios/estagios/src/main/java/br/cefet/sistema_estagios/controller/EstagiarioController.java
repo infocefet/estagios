@@ -29,6 +29,7 @@ import br.cefet.sistema_estagios.model.Estagiario;
 import br.cefet.sistema_estagios.repository.EstagiarioRepository;
 import io.swagger.annotations.ApiOperation;
 
+//API do Estagiario
 @RestController
 
 @RequestMapping("/estagiarios")
