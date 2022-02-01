@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="estagios/estagios/.mvn/wrapper"/>
+	<classpathentry kind="src" path="estagios/estagios/src/main/java"/>
+	<classpathentry kind="src" path="estagios/estagios/src/test/java"/>
+	<classpathentry kind="output" path="estagios/estagios/target/classes"/>
+</classpath>
